@@ -26,7 +26,7 @@
 - 🏠 ¡No dudes en saludarme con un 👋 en GitHub! 😊
 <!--Intro end-->
 
-# Tecnologias que se 👨🏻‍💻
+# Tecnologias que uso 👨🏻‍💻
 
 <!--tech stack icons-->
 <p align="center">
@@ -35,8 +35,6 @@
   </a>
 </p>
 
-
-<!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
