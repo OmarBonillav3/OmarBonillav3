@@ -1,6 +1,6 @@
 
 <!--h1 without bottom border-->
-#       Hola 👋, Soy Omar Bonilla
+# Hola 👋, Soy Omar Bonilla
 
 
 
@@ -26,12 +26,8 @@
 - 🏠 ¡No dudes en saludarme con un 👋 en GitHub! 😊
 <!--Intro end-->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que se 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+# Tecnologias que se 👨🏻‍💻
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
