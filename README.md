@@ -10,25 +10,23 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">La creatividad comienza donde otros ven límites.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 Actualmente estoy trabajando en **React, React Native, Expo, Node.js y algunas tecnologias mas**, con proyectos centrados en aplicaciones móviles y web.
+  
+- 🌱 Estoy aprendiendo a mejorar la experiencia de usuario y optimizar aplicaciones utilizando tecnologías modernas como **Context API, AsyncStorage y Styled Components**.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 📝 Escribo artículos regularmente sobre mis proyectos y aprendizajes en **GitHub** (puedes incluir tu enlace de blog personal aquí si lo tienes).
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💬 Pregúntame sobre **React Native, Expo, diseño de interfaces, navegación en aplicaciones móviles y metodologías ágiles como Scrum**.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 Puedes contactarme en **omarbonilla.v3@gmail.com** para colaborar en proyectos interesantes o simplemente charlar sobre tecnología.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 ¡No dudes en saludarme con un 👋 en GitHub! 😊
 <!--Intro end-->
 
 
