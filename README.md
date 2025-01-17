@@ -1,10 +1,7 @@
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Omar Bonilla</h1></summary>
-  </ul>
-</div>
+#Hola 👋, Soy Omar Bonilla
+
 
 
 <!--h2 without bottom border-->
