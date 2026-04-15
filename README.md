@@ -6,11 +6,11 @@
 
 ---
 
-- 🔭 Desarrollador de software enfocado en **desarrollo móvil y web**, con experiencia en **React, React Native, Expo y Node.js**. Construyo aplicaciones escalables e intuitivas integrando servicios como **Firebase** para autenticación, base de datos en tiempo real y despliegue en la nube.
-- 🛠️ Trabajo con un stack completo que incluye **JavaScript (ES6+), HTML5, CSS3, Java, REST APIs** y herramientas como **Context API, AsyncStorage, Styled Components y React Navigation** para crear experiencias de usuario fluidas en plataformas **Android e iOS**.
-- 🎨 Diseño interfaces centradas en el usuario utilizando **Figma**, siguiendo principios de UI/UX y colaborando en entornos ágiles con metodologías **Scrum**. Manejo flujos de trabajo con **Git & GitHub**, entornos **Linux** y editores como **VS Code y Android Studio**.
-- 🌱 Constantemente explorando nuevas tecnologías, optimizando rendimiento de aplicaciones y profundizando en arquitecturas de software modernas para entregar soluciones de calidad.
-- 📫 Abierto a colaboraciones, proyectos freelance o simplemente hablar de tecnología: **omarbonilla.v3@gmail.com**
+- 📱 Desarrollador móvil especializado en **React Native y Expo**, construyendo aplicaciones nativas para **Android e iOS** con JavaScript. Me enfoco en crear experiencias de usuario fluidas, rendimiento nativo y código mantenible.
+- 🛠️ Mi stack principal incluye **React Native, Expo, React Navigation, Context API, AsyncStorage y Styled Components**. Integro **Firebase** para autenticación, Firestore y notificaciones push, y consumo **REST APIs** con manejo eficiente de estado.
+- 🎨 Diseño y prototipo interfaces móviles en **Figma** antes de implementarlas, cuidando cada detalle de UX. Trabajo con flujos ágiles usando **Scrum**, control de versiones con **Git & GitHub** y entornos de desarrollo con **Android Studio y VS Code**.
+- 🌱 Siempre buscando mejorar el rendimiento de mis apps, explorar nuevas librerías del ecosistema React Native y escribir código más limpio y escalable.
+- 📫 Abierto a colaboraciones o proyectos móviles: **omarbonilla.v3@gmail.com**
 
 ---
 
