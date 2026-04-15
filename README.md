@@ -6,11 +6,11 @@
 
 ---
 
-- 🔭 Actualmente estoy trabajando con **React, React Native, Expo, Node.js** y otras tecnologías modernas, desarrollando proyectos móviles y web que buscan ser intuitivos y funcionales.  
-- 🌱 Siempre estoy aprendiendo nuevas formas de mejorar la experiencia de usuario y optimizar aplicaciones usando herramientas como **Context API, AsyncStorage y Styled Components**.  
-- 💬 Me encanta compartir conocimientos y puedes preguntarme sobre **React Native, Expo, diseño de interfaces, navegación en apps móviles y metodologías ágiles como Scrum**.  
-- 📫 Para colaboraciones, ideas o simplemente charlar sobre tecnología, escríbeme a **omarbonilla.v3@gmail.com**.  
-- 🏠 ¡Siempre es un gusto recibir un 👋 en GitHub!
+- 🔭 Desarrollador de software enfocado en **desarrollo móvil y web**, con experiencia en **React, React Native, Expo y Node.js**. Construyo aplicaciones escalables e intuitivas integrando servicios como **Firebase** para autenticación, base de datos en tiempo real y despliegue en la nube.
+- 🛠️ Trabajo con un stack completo que incluye **JavaScript (ES6+), HTML5, CSS3, Java, REST APIs** y herramientas como **Context API, AsyncStorage, Styled Components y React Navigation** para crear experiencias de usuario fluidas en plataformas **Android e iOS**.
+- 🎨 Diseño interfaces centradas en el usuario utilizando **Figma**, siguiendo principios de UI/UX y colaborando en entornos ágiles con metodologías **Scrum**. Manejo flujos de trabajo con **Git & GitHub**, entornos **Linux** y editores como **VS Code y Android Studio**.
+- 🌱 Constantemente explorando nuevas tecnologías, optimizando rendimiento de aplicaciones y profundizando en arquitecturas de software modernas para entregar soluciones de calidad.
+- 📫 Abierto a colaboraciones, proyectos freelance o simplemente hablar de tecnología: **omarbonilla.v3@gmail.com**
 
 ---
 
